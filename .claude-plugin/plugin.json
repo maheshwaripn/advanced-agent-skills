@@ -1,6 +1,6 @@
 {
   "name": "advanced-agent-skills",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Engineering workflows for task routing, implementation and release evidence.",
   "author": {
     "name": "Prashant Maheshwari",
@@ -47,6 +47,10 @@
     "./skills/productivity/wait-what",
     "./skills/productivity/writing-for-agents",
     "./skills/engineering/plan-effort",
-    "./skills/engineering/release-evidence"
+    "./skills/engineering/release-evidence",
+    "./skills/engineering/draft-release-notes",
+    "./skills/engineering/evaluate-skill",
+    "./skills/engineering/review-ui-journey",
+    "./skills/engineering/trace-architecture"
   ]
 }

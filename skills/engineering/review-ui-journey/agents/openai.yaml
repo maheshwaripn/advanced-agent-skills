@@ -1,0 +1,5 @@
+interface:
+  display_name: "Review UI Journey"
+  short_description: "Check a user journey across states and viewports"
+policy:
+  allow_implicit_invocation: false

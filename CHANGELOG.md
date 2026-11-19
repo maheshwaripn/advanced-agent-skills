@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0
+
+Added four workflows for release notes, paired skill evaluations, UI journeys and architecture tracing. Updated implementation scope checks and handoff guidance. [Selection review](docs/catalog-review.md).
+
 ## 0.2.0
 
 The public advisor command is `/askadvisor`. Configure project tracking with `/setup-agent-skills`. Skill guides now link to the matching guides in this repository. After updating a linked installation, rerun the installer to register the new command names. Inspect any broken links in the installation directory and remove only obsolete links pointing into this checkout. Update saved prompts and shortcuts to the new names.

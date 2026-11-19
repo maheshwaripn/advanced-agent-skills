@@ -1,6 +1,6 @@
 # Advanced Agent Skills
 
-Advanced Agent Skills is Prashant Maheshwari’s public collection of 29 workflows for coding agents. Start with `/askadvisor` to find a skill, or run `/setup-agent-skills` to configure a project’s issue tracker, triage labels, and documentation. [Maintainer’s website](https://pusaram.com/)
+Advanced Agent Skills is Prashant Maheshwari’s public collection of 33 workflows for coding agents. Start with `/askadvisor` to find a skill, or run `/setup-agent-skills` to configure a project’s issue tracker, triage labels, and documentation. [Maintainer’s website](https://pusaram.com/)
 
 ## Use from this checkout
 
@@ -28,6 +28,10 @@ Engineering workflows.
 
 **User-invoked**
 
+- [draft-release-notes](./skills/engineering/draft-release-notes/SKILL.md) — Write audience-facing release notes from a verified comparison between two revisions.
+- [evaluate-skill](./skills/engineering/evaluate-skill/SKILL.md) — Compare two skill or prompt revisions on paired cases and report regressions, reliability and cost.
+- [review-ui-journey](./skills/engineering/review-ui-journey/SKILL.md) — Evaluate a real user journey across interface states, keyboard navigation and responsive layouts.
+- [trace-architecture](./skills/engineering/trace-architecture/SKILL.md) — Trace one behavior across a codebase with revision-specific evidence and an explicit map of unknowns.
 - [plan-effort](./skills/engineering/plan-effort/SKILL.md) selects an effort level and verification path.
 - [release-evidence](./skills/engineering/release-evidence/SKILL.md) checks a release candidate and its recovery evidence.
 
@@ -71,3 +75,5 @@ General workflow tools, not code-specific.
 
 - **[grilling](./skills/productivity/grilling/SKILL.md)**: Interview the user relentlessly about a plan, decision, or idea until every branch of the design tree is resolved. The reusable interview primitive behind `grill-me`, `grill-with-docs`, `triage`, `wayfinder` and `improve-codebase-architecture`.
 - **[writing-for-agents](./skills/productivity/writing-for-agents/SKILL.md)**: Writing documents for agents: skills, AGENTS.md/CLAUDE.md, and any doc an agent reaches by a pointer.
+
+[External skill review and selection decisions](docs/catalog-review.md)

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Trace Architecture"
+  short_description: "Trace a behavior with evidence for each connection"
+policy:
+  allow_implicit_invocation: false

@@ -99,3 +99,5 @@ Off the main flow entirely.
 ## Downstream workflows
 
 Recommend plan-effort when the user needs a budget and decomposition before choosing a workflow. Recommend release-evidence after a candidate exists and the question is whether its checks and recovery evidence support release. The user invokes either skill.
+
+For a user-facing summary between releases, recommend draft-release-notes. For a decision between prompt revisions, recommend evaluate-skill. For interactive usability and recovery on one task, recommend review-ui-journey. For an evidence-backed explanation of current behavior, recommend trace-architecture.

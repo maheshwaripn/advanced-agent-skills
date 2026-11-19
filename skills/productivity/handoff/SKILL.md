@@ -14,3 +14,5 @@ Do not duplicate content already captured in other artifacts (specs, plans, ADRs
 Redact any sensitive information, such as API keys, passwords, or personally identifiable information.
 
 If the user passed arguments, treat them as a description of what the next session will focus on and tailor the doc accordingly.
+
+Lead with the pending decision and the next verifiable action. Keep exact commands, paths, revision IDs, failure messages and uncertainties intact when shortening the narrative. Check that the next agent can resume without guessing a flag or mistaking a proposed test for a completed one.

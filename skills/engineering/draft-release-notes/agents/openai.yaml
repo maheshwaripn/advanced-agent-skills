@@ -1,0 +1,5 @@
+interface:
+  display_name: "Draft Release Notes"
+  short_description: "Draft release notes from a verified change range"
+policy:
+  allow_implicit_invocation: false

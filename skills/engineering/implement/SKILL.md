@@ -15,3 +15,5 @@ Run typechecking regularly, single test files regularly, and the full test suite
 Once done, call the Skill tool with "code-review" to review the work.
 
 Commit your work to the current branch.
+
+Before editing, connect each proposed change to one acceptance criterion. Inspect the current entry point and name any unresolved assumption that would change behavior. After the checks, scan the diff for unrelated edits and account for every touched file. Preserve existing user changes.

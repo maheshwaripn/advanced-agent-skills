@@ -1,0 +1,5 @@
+interface:
+  display_name: "Evaluate Skill"
+  short_description: "Compare paired trials and inspect regressions"
+policy:
+  allow_implicit_invocation: false
