@@ -95,3 +95,7 @@ Off the main flow entirely.
 ## Precondition
 
 **`/setup-matt-pocock-skills`**: run before your first engineering flow to configure the issue tracker, triage labels, and doc layout the other skills assume. Custom issue trackers also work.
+
+## Downstream workflows
+
+Recommend plan-effort when the user needs a budget and decomposition before choosing a workflow. Recommend release-evidence after a candidate exists and the question is whether its checks and recovery evidence support release. The user invokes either skill.

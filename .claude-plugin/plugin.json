@@ -1,13 +1,12 @@
 {
-  "name": "mattpocock-skills",
-  "version": "1.3.2",
-  "description": "Matt Pocock's agent skills for real engineering: grilling, spec/ticket flows, TDD, code review, domain modelling and more. Plug-and-play, not vibe coding.",
+  "name": "advanced-agent-skills",
+  "version": "0.1.0",
+  "description": "Engineering workflows for task routing, implementation and release evidence.",
   "author": {
-    "name": "Matt Pocock",
-    "url": "https://www.aihero.dev"
+    "name": "maheshwaripn"
   },
-  "homepage": "https://www.aihero.dev/s/skills-newsletter",
-  "repository": "https://github.com/mattpocock/skills",
+  "homepage": "https://github.com/maheshwaripn/advanced-agent-skills",
+  "repository": "https://github.com/maheshwaripn/advanced-agent-skills",
   "license": "MIT",
   "keywords": [
     "engineering",
@@ -45,6 +44,8 @@
     "./skills/productivity/teach",
     "./skills/productivity/to-questionnaire",
     "./skills/productivity/wait-what",
-    "./skills/productivity/writing-for-agents"
+    "./skills/productivity/writing-for-agents",
+    "./skills/engineering/plan-effort",
+    "./skills/engineering/release-evidence"
   ]
 }

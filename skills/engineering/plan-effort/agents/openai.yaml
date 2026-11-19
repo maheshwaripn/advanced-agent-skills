@@ -1,0 +1,5 @@
+interface:
+  display_name: "Plan Effort"
+  short_description: "Choose effort by uncertainty and impact"
+policy:
+  allow_implicit_invocation: false

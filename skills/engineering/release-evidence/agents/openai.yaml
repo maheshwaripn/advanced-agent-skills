@@ -1,0 +1,5 @@
+interface:
+  display_name: "Release Evidence"
+  short_description: "Check release and recovery evidence"
+policy:
+  allow_implicit_invocation: false

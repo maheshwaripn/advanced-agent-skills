@@ -1,15 +1,14 @@
 {
-  "name": "mattpocock",
+  "name": "maheshwaripn",
   "owner": {
-    "name": "Matt Pocock",
-    "url": "https://www.aihero.dev"
+    "name": "maheshwaripn"
   },
-  "description": "Matt Pocock's skills for real engineering, as an installable Claude Code plugin.",
+  "description": "Engineering workflows for task routing, implementation and release evidence.",
   "plugins": [
     {
-      "name": "mattpocock-skills",
+      "name": "advanced-agent-skills",
       "source": "./",
-      "description": "Matt Pocock's agent skills for real engineering (grilling, spec/ticket flows, TDD, code review, domain modelling and more).",
+      "description": "Engineering workflows for task routing, implementation and release evidence.",
       "category": "engineering",
       "keywords": [
         "engineering",
