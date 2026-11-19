@@ -1,6 +1,6 @@
 # Advanced Agent Skills
 
-A downstream edition of Matt Pocock's engineering and productivity skills, maintained for maheshwaripn. Start with **plan-effort** when choosing how much reasoning a task needs. Use **release-evidence** when deciding whether a specific revision is ready to ship.
+Advanced Agent Skills is Prashant Maheshwari’s public collection of 29 workflows for coding agents. Start with `/askadvisor` to find a skill, or run `/setup-agent-skills` to configure a project’s issue tracker, triage labels, and documentation. [Maintainer’s website](https://pusaram.com/)
 
 ## Use from this checkout
 
@@ -20,10 +20,7 @@ See [the upstream review](REVIEW.md) for the baseline, changes and attribution. 
 
 ## Reference
 
-These split on one axis: who can invoke them. **User-invoked**
-
-- [plan-effort](./skills/engineering/plan-effort/SKILL.md) selects an effort level and verification path.
-- [release-evidence](./skills/engineering/release-evidence/SKILL.md) checks a release candidate and its recovery evidence. skills are reachable only when you type them (e.g. `/grill-me`); their job is to orchestrate. **Model-invoked** skills can be invoked by you _or_ reached for automatically by the agent when the task fits; they hold the reusable discipline. A user-invoked skill may invoke model-invoked skills, but never another user-invoked one.
+User-invoked skills start when you request them. Model-invoked skills can also be selected by the agent when a task fits.
 
 ### Engineering
 
@@ -31,11 +28,14 @@ Engineering workflows.
 
 **User-invoked**
 
-- **[ask-matt](./skills/engineering/ask-matt/SKILL.md)**: Ask which skill or flow fits your situation. A router over the user-invoked skills in this repo.
+- [plan-effort](./skills/engineering/plan-effort/SKILL.md) selects an effort level and verification path.
+- [release-evidence](./skills/engineering/release-evidence/SKILL.md) checks a release candidate and its recovery evidence.
+
+- **[askadvisor](./skills/engineering/askadvisor/SKILL.md)**: Ask which skill or flow fits your situation. A router over the user-invoked skills in this repo.
 - **[grill-with-docs](./skills/engineering/grill-with-docs/SKILL.md)**: Grilling session that also builds your project's domain model, sharpening terminology and updating `GLOSSARY.md` and ADRs inline.
 - **[triage](./skills/engineering/triage/SKILL.md)**: Move issues through a state machine of triage roles.
 - **[improve-codebase-architecture](./skills/engineering/improve-codebase-architecture/SKILL.md)**: Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick.
-- **[setup-matt-pocock-skills](./skills/engineering/setup-matt-pocock-skills/SKILL.md)**: Configure this repo for the engineering skills (issue tracker, triage labels, domain doc layout). Run once per repo before using the other engineering skills.
+- **[setup-agent-skills](./skills/engineering/setup-agent-skills/SKILL.md)**: Configure this repo for the engineering skills (issue tracker, triage labels, domain doc layout). Run once per repo before using the other engineering skills.
 - **[to-spec](./skills/engineering/to-spec/SKILL.md)**: Turn the current conversation into a spec and publish it to the issue tracker. No interview, just synthesizes what you've already discussed.
 - **[to-tickets](./skills/engineering/to-tickets/SKILL.md)**: Break any plan, spec, or conversation into a set of tracer-bullet tickets, each declaring its blocking edges, written as text in a local file, or as native blocking links on a real tracker.
 - **[implement](./skills/engineering/implement/SKILL.md)**: Build the work described by a spec or set of tickets, driving `/tdd` at pre-agreed seams and closing out with `/code-review` before committing.
