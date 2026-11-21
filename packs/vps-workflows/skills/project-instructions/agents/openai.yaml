@@ -1,0 +1,5 @@
+interface:
+  display_name: "Project Instructions"
+  short_description: "Initialize project guidance from observed repository conventions."
+policy:
+  allow_implicit_invocation: false

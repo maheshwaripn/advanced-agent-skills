@@ -1,0 +1,5 @@
+interface:
+  display_name: "Site Publish"
+  short_description: "Prepare or execute a scoped static-site release."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Desktop Journey"
+  short_description: "Verify a native desktop workflow through its UI."
+policy:
+  allow_implicit_invocation: false

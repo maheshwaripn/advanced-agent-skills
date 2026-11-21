@@ -1,0 +1,5 @@
+interface:
+  display_name: "Bounded Loop"
+  short_description: "Repeat an observable check within an active session."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Chrome Session"
+  short_description: "Perform a bounded task in an authorized Chrome session."
+policy:
+  allow_implicit_invocation: false

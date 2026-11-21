@@ -1,0 +1,5 @@
+interface:
+  display_name: "Scheduled Routine"
+  short_description: "Set up a persistent future task when the host supports it."
+policy:
+  allow_implicit_invocation: false

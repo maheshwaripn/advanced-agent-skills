@@ -1,0 +1,5 @@
+interface:
+  display_name: "Spreadsheet Workbook"
+  short_description: "Build or audit a spreadsheet with reproducible calculations."
+policy:
+  allow_implicit_invocation: false

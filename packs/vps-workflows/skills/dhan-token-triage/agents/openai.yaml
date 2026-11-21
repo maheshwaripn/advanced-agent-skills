@@ -1,0 +1,5 @@
+interface:
+  display_name: "Dhan Token Triage"
+  short_description: "Diagnose an authentication alert using redacted status evidence."
+policy:
+  allow_implicit_invocation: false

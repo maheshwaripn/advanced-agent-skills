@@ -1,0 +1,5 @@
+interface:
+  display_name: "Studio Assemble Qc"
+  short_description: "Assemble accepted media and check delivery quality."
+policy:
+  allow_implicit_invocation: false

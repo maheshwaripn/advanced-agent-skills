@@ -1,0 +1,5 @@
+interface:
+  display_name: "Task Router"
+  short_description: "Choose direct work, a model recommendation or bounded delegation."
+policy:
+  allow_implicit_invocation: false

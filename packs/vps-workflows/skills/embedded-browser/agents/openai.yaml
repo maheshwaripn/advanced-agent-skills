@@ -1,0 +1,5 @@
+interface:
+  display_name: "Embedded Browser"
+  short_description: "Use an embedded browser for a scoped site task."
+policy:
+  allow_implicit_invocation: false

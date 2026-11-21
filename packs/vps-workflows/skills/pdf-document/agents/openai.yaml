@@ -1,0 +1,5 @@
+interface:
+  display_name: "Pdf Document"
+  short_description: "Produce or inspect a PDF against delivery requirements."
+policy:
+  allow_implicit_invocation: false

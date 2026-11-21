@@ -1,0 +1,5 @@
+interface:
+  display_name: "Review Read Permissions"
+  short_description: "Review recurring prompts for narrowly scoped read-only operations."
+policy:
+  allow_implicit_invocation: false

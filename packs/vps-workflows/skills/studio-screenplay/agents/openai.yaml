@@ -1,0 +1,5 @@
+interface:
+  display_name: "Studio Screenplay"
+  short_description: "Turn an approved premise into filmable scenes."
+policy:
+  allow_implicit_invocation: false

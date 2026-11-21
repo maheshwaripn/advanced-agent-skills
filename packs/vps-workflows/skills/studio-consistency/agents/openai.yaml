@@ -1,0 +1,5 @@
+interface:
+  display_name: "Studio Consistency"
+  short_description: "Review continuity across adjacent shots."
+policy:
+  allow_implicit_invocation: false

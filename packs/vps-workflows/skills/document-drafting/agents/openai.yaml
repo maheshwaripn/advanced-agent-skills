@@ -1,0 +1,5 @@
+interface:
+  display_name: "Document Drafting"
+  short_description: "Draft a structured document for a defined audience."
+policy:
+  allow_implicit_invocation: false

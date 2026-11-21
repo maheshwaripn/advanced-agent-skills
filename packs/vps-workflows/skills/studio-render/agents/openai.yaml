@@ -1,0 +1,5 @@
+interface:
+  display_name: "Studio Render"
+  short_description: "Prepare and track a reproducible render batch."
+policy:
+  allow_implicit_invocation: false

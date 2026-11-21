@@ -1,0 +1,5 @@
+interface:
+  display_name: "Config Change"
+  short_description: "Change one scoped agent configuration setting."
+policy:
+  allow_implicit_invocation: false

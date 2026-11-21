@@ -1,0 +1,5 @@
+interface:
+  display_name: "Chrome Journey"
+  short_description: "Inspect a journey using a Chrome browser adapter."
+policy:
+  allow_implicit_invocation: false

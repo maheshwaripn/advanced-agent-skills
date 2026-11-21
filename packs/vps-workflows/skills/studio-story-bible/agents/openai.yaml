@@ -1,0 +1,5 @@
+interface:
+  display_name: "Studio Story Bible"
+  short_description: "Establish the narrative and visual canon for a production."
+policy:
+  allow_implicit_invocation: false

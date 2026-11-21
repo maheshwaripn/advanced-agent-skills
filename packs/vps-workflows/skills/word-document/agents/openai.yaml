@@ -1,0 +1,5 @@
+interface:
+  display_name: "Word Document"
+  short_description: "Create or edit a Word document with layout checks."
+policy:
+  allow_implicit_invocation: false

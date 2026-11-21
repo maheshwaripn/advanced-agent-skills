@@ -1,0 +1,5 @@
+interface:
+  display_name: "Author Skill"
+  short_description: "Author a portable agent skill with an acceptance example."
+policy:
+  allow_implicit_invocation: false

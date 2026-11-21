@@ -1,0 +1,5 @@
+interface:
+  display_name: "Studio Shotlist"
+  short_description: "Plan camera coverage before rendering."
+policy:
+  allow_implicit_invocation: false

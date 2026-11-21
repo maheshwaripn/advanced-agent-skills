@@ -1,0 +1,5 @@
+interface:
+  display_name: "Keyboard Shortcuts"
+  short_description: "Resolve or customize a keyboard shortcut."
+policy:
+  allow_implicit_invocation: false

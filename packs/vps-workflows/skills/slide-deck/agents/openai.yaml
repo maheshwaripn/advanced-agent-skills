@@ -1,0 +1,5 @@
+interface:
+  display_name: "Slide Deck"
+  short_description: "Build a presentation around an audience decision."
+policy:
+  allow_implicit_invocation: false

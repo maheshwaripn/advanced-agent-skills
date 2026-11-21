@@ -1,0 +1,5 @@
+interface:
+  display_name: "Studio Budget"
+  short_description: "Estimate production spend and enforce an agreed cap."
+policy:
+  allow_implicit_invocation: false

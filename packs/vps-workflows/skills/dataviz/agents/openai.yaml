@@ -1,0 +1,5 @@
+interface:
+  display_name: "Dataviz"
+  short_description: "Design and verify a chart for a specific comparison."
+policy:
+  allow_implicit_invocation: false

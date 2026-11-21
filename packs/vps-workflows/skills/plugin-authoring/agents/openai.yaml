@@ -1,0 +1,5 @@
+interface:
+  display_name: "Plugin Authoring"
+  short_description: "Package skills into a host-compatible plugin."
+policy:
+  allow_implicit_invocation: false

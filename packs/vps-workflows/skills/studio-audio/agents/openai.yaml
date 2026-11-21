@@ -1,0 +1,5 @@
+interface:
+  display_name: "Studio Audio"
+  short_description: "Plan and verify a soundtrack against picture timing."
+policy:
+  allow_implicit_invocation: false

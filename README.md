@@ -2,6 +2,10 @@
 
 Advanced Agent Skills is Prashant Maheshwari’s public collection of 33 workflows for coding agents. Start with `/askadvisor` to find a skill, or run `/setup-agent-skills` to configure a project’s issue tracker, triage labels, and documentation. [Maintainer’s website](https://pusaram.com/)
 
+## Optional VPS workflow pack
+
+The [illustrated VPS catalog](packs/vps-workflows/README.md) maps 42 inventory entries to 40 companion skills and two existing core skills. It includes operations, research, film production, scheduling, documents and host-specific workflows. Install the companion separately when needed.
+
 ## Use from this checkout
 
 On Linux, link the promoted skills into your chosen agent directory. Existing same-name entries are preserved and reported. Keep this checkout in place while using the links.

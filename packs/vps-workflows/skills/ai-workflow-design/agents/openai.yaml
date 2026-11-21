@@ -1,0 +1,5 @@
+interface:
+  display_name: "Ai Workflow Design"
+  short_description: "Design an AI-assisted workflow with evidence of success."
+policy:
+  allow_implicit_invocation: false

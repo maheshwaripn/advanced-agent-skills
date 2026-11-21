@@ -1,0 +1,5 @@
+interface:
+  display_name: "Docs Connector Edit"
+  short_description: "Edit an existing Google Doc using its connector."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Quant Research Protocol"
+  short_description: "Evaluate a pre-registered trading hypothesis."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Studio Showrunner"
+  short_description: "Coordinate studio stages from premise to delivery."
+policy:
+  allow_implicit_invocation: false

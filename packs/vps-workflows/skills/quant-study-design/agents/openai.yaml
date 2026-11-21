@@ -1,0 +1,5 @@
+interface:
+  display_name: "Quant Study Design"
+  short_description: "Design a reproducible quantitative study."
+policy:
+  allow_implicit_invocation: false

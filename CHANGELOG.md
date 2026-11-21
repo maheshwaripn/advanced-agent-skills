@@ -1,5 +1,9 @@
 # Changelog
 
+## VPS companion 0.1.0
+
+Added an optional public pack with 40 workflows, two core mappings and 42 worked scenarios. [Browse the catalog](packs/vps-workflows/README.md).
+
 ## 0.3.0
 
 Added four workflows for release notes, paired skill evaluations, UI journeys and architecture tracing. Updated implementation scope checks and handoff guidance. [Selection review](docs/catalog-review.md).

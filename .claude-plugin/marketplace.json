@@ -18,6 +18,11 @@
         "code-review",
         "grilling"
       ]
+    },
+    {
+      "name": "vps-workflows",
+      "source": "./packs/vps-workflows",
+      "description": "Illustrated workflows for operations, research, media production and Claude host tasks."
     }
   ]
 }

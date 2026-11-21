@@ -1,0 +1,5 @@
+interface:
+  display_name: "Defensive Review"
+  short_description: "Review a pending change for defensive security issues."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Context Import"
+  short_description: "Import selected context with provenance."
+policy:
+  allow_implicit_invocation: false

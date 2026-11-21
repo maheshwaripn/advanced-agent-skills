@@ -1,0 +1,5 @@
+interface:
+  display_name: "Workspace Edit"
+  short_description: "Change a native Google Workspace file through an authorized connector."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Api Integration"
+  short_description: "Plan or update a Claude API integration."
+policy:
+  allow_implicit_invocation: false
