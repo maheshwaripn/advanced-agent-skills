@@ -1,6 +1,6 @@
 # Claude Code VPS workflow inventory
 
-This companion to Advanced Agent Skills covers the 21 November 2026 inventory. Each example is synthetic. The public workflows were written from descriptions. They are independent implementations and do not include vendor prompts, VPS configuration, private paths, credentials or provider integrations. Only google-workspace was listed as current. Every other entry was reported from earlier listings; the four browser and desktop entries were reported unavailable on this headless VPS. The exact identity of the separate Docs connector skill awaits confirmation.
+This companion to Advanced Agent Skills covers the 21 November 2026 inventory. Each example is synthetic. The public workflows were written from descriptions. They are independent implementations and do not include vendor prompts, VPS configuration, private paths, credentials or provider integrations. Claude's follow-up identified 13 locally installed owner skills with different file revisions and 15 distinct vendor or plugin entries in the sync manifest. Only Google Workspace appeared in the latest session listing. A manifest entry indicates presence on disk; it does not establish successful invocation. [Read the source reconciliation](RECONCILIATION.md).
 
 ## Installation
 
