@@ -4,7 +4,7 @@ Advanced Agent Skills is Prashant Maheshwari’s public collection of 85 skill d
 
 ## Optional VPS workflow pack
 
-The [illustrated VPS catalog](packs/vps-workflows/README.md) maps 42 inventory entries to 40 companion skills and two existing core skills. It includes operations, research, film production, scheduling, documents and host-specific workflows. Install the companion separately when needed.
+The [illustrated VPS catalog](packs/vps-workflows/README.md) maps 42 catalog rows to 40 companion skills and two existing core skills. The historical inventory total is unconfirmed. It includes operations, research, film production, scheduling, documents and host-specific workflows. Install the companion separately when needed.
 
 ## Use from this checkout
 

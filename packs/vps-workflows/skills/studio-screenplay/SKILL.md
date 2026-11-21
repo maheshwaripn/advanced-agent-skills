@@ -8,6 +8,10 @@ disable-model-invocation: true
 
 Read the bible and duration target. Give each scene a visible action, location, characters and dialogue. Estimate screen time and flag beats that cannot fit. Hand off scene IDs and revision for the shot list.
 
+## Runtime target
+
+Scenes that push the total past the duration target are flagged for trimming. They are not trimmed silently.
+
 ## Illustrative request
 
 Write a 30-second radio repair scene with a silent ending.
